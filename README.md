@@ -2,7 +2,7 @@
 [![npm version](https://badge.fury.io/js/protractor-jasmine2-screenshot-reporter.svg)](http://badge.fury.io/js/protractor-jasmine2-screenshot-reporter)
 
 Reporter for Protractor that will capture a screenshot after each executed test case and store the results in a HTML report.
-(supports jasmine2) v2
+(supports jasmine2) v3
 
 ## Usage
 The <code>protractor-jasmine2-screenshot-reporter</code> is available via npm:
